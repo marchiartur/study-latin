@@ -25,21 +25,21 @@
 
 5. Construa 5 orações e ponha um traço debaixo do sujeito.
 
-   1. <u>Jesus Cristo</u> é rei
-   2. <u>A tumba</u> de São Pedro foi encontrada no Vaticano.
-   3. <u>São Tomás de Aquino</u> escreveu a Suma Teológica.
-   4. Foi encontrado <u>imagens</u> nas Igrejas primitivas do século um depois de Cristo.
-   5. Em Fátima, <u>o sol</u> parecia estar caindo do céu.
+   1. _Jesus Cristo_ é rei
+   2. _A tumba_ de São Pedro foi encontrada no Vaticano.
+   3. _São Tomás de Aquino_ escreveu a Suma Teológica.
+   4. Foi encontrado _imagens_ nas Igrejas primitivas do século um depois de Cristo.
+   5. Em Fátima, _o sol_ parecia estar caindo do céu.
 
 6. Indique onde está o sujeito das seguintes orações:  
-   a) <u>A filosofia</u> é a ciência de todas as coisas.  
-   b) O fundamento da justiça é <u>a fé</u>.  
-   c) <u>O autor</u> deste livro é Pedro.  
-   d) De todas as coisas, a mais eficiente é <u>o bom humor</u>.  
-   e) É necessária <u>a moderação</u>.  
-   f) Nesse lugar foi encontrado <u>um esqueleto</u>.  
-   g) São caducas <u>as riquezas</u>.  
-   h) Nesse ano <u>o rei</u> morreu.
+   a) _A filosofia_ é a ciência de todas as coisas.  
+   b) O fundamento da justiça é _a fé_.  
+   c) _O autor_ deste livro é Pedro.  
+   d) De todas as coisas, a mais eficiente é _o bom humor_.  
+   e) É necessária _a moderação_.  
+   f) Nesse lugar foi encontrado _um esqueleto_.  
+   g) São caducas _as riquezas_.  
+   h) Nesse ano _o rei_ morreu.
 
 7. Em latim, quantas funções podem desempenhar as palavras?  
    R: Seis funções podem desempenhar as palavras: função de sujeito, de vocativo, de adjunto adnominal restritivo, de objeto indireto, de adjunto adverbial e de objeto direto.
@@ -66,12 +66,12 @@
     R: A função do nominativo é indicar a palavra como sujeito da oração.
 
 15. Nas seguintes orações, quais as palavras que devem ir para o nominativo  
-    a) <u>O filho</u> do vizinho estudou.  
-    b) <u>O sol</u> sempre ilumina a terra.  
-    c) <u>A terra</u> é iluminada pelo sol.  
-    d) Nem sempre <u>a lua</u> ilumina a terra durante a noite.  
-    e) <u>O sol</u> tem luz própria, ao passo que a lua não tem.  
-    f) <u>A fonética</u> constitui a primeira parte da gramática.  
-    g) <u>O nominativo</u> indica o sujeito da oração.  
-    h) <u>O sujeito</u> de uma oração vai em latim para o caso nominativo.  
-    i) Procede mal <u>o aluno</u> que pretende acertar as respostas do questionário sem antes ter estudado bem a lição.
+    a) _O filho_ do vizinho estudou.  
+    b) _O sol_ sempre ilumina a terra.  
+    c) _A terra_ é iluminada pelo sol.  
+    d) Nem sempre _a lua_ ilumina a terra durante a noite.  
+    e) _O sol_ tem luz própria, ao passo que a lua não tem.  
+    f) _A fonética_ constitui a primeira parte da gramática.  
+    g) _O nominativo_ indica o sujeito da oração.  
+    h) _O sujeito_ de uma oração vai em latim para o caso nominativo.  
+    i) Procede mal _o aluno_ que pretende acertar as respostas do questionário sem antes ter estudado bem a lição.
